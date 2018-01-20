@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d10ecbeb-beb4-4bde-8b17-95235a64c87f" name="Default" comment="简单go语言输出例子">
+    <list default="true" id="d10ecbeb-beb4-4bde-8b17-95235a64c87f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/stemp2.go" afterPath="$PROJECT_DIR$/stemp2.go" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stemp2.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stemp2.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stemp2.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -62,6 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/stemp1.go" />
         <option value="$PROJECT_DIR$/stemp2.go" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -201,7 +212,8 @@
     <MESSAGE value="11111" />
     <MESSAGE value="start project" />
     <MESSAGE value="简单go语言输出例子" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单go语言输出例子" />
+    <MESSAGE value="第二个例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二个例子" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -232,6 +244,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
