@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d10ecbeb-beb4-4bde-8b17-95235a64c87f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/stemp11.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/stemp12.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stemp11.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stemp11.go">
+      <file leaf-file-name="stemp12.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stemp12.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="135">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -62,6 +62,7 @@
         <option value="$PROJECT_DIR$/stemp9.go" />
         <option value="$PROJECT_DIR$/stemp10.go" />
         <option value="$PROJECT_DIR$/stemp11.go" />
+        <option value="$PROJECT_DIR$/stemp12.go" />
       </list>
     </option>
   </component>
@@ -72,8 +73,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="136" />
-    <option name="y" value="121" />
+    <option name="x" value="106" />
+    <option name="y" value="73" />
     <option name="width" value="1148" />
     <option name="height" value="693" />
   </component>
@@ -129,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build stemp11.go">
+  <component name="RunManager" selected="Go Build.go build stemp12.go">
     <configuration name="go build stemp10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Study" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -146,12 +147,12 @@
       <filePath value="$PROJECT_DIR$/stemp11.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build stemp7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build stemp12.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Study" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stemp7.go" />
+      <filePath value="$PROJECT_DIR$/stemp12.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build stemp8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -171,19 +172,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp7.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp8.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp9.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp10.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp11.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp8.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp9.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp10.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp11.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp12.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp11.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp10.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp9.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp8.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp7.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp12.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp11.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp10.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp9.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp8.go" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +192,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="136" y="121" width="1148" height="693" extended-state="0" />
+    <frame x="106" y="73" width="1148" height="693" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20848057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -254,7 +255,8 @@
     <MESSAGE value="类型转化" />
     <MESSAGE value="常量" />
     <MESSAGE value="For循环" />
-    <option name="LAST_COMMIT_MESSAGE" value="For循环" />
+    <MESSAGE value="GO指针" />
+    <option name="LAST_COMMIT_MESSAGE" value="GO指针" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -406,8 +408,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stemp11.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="216">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stemp12.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
