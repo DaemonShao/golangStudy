@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d10ecbeb-beb4-4bde-8b17-95235a64c87f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/stemp15.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/stemp16.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stemp15.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stemp15.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stemp15.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="459">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stemp16.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stemp16.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -66,6 +78,7 @@
         <option value="$PROJECT_DIR$/stemp13.go" />
         <option value="$PROJECT_DIR$/stemp14.go" />
         <option value="$PROJECT_DIR$/stemp15.go" />
+        <option value="$PROJECT_DIR$/stemp16.go" />
       </list>
     </option>
   </component>
@@ -133,15 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build stemp15.go">
-    <configuration name="go build stemp11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stemp11.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build stemp16.go">
     <configuration name="go build stemp12.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Study" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -174,20 +179,28 @@
       <filePath value="$PROJECT_DIR$/stemp15.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build stemp16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Study" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stemp16.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp11.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp12.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp13.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp14.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp15.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp12.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp13.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp14.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp15.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp16.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp15.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp14.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp13.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp12.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp11.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build stemp16.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build stemp15.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build stemp14.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build stemp13.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build stemp12.go" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +275,8 @@
     <MESSAGE value="结构体" />
     <MESSAGE value="列表" />
     <MESSAGE value="slice的slice" />
-    <option name="LAST_COMMIT_MESSAGE" value="slice的slice" />
+    <MESSAGE value="构造slice" />
+    <option name="LAST_COMMIT_MESSAGE" value="构造slice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,8 +458,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stemp15.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="459">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stemp16.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
